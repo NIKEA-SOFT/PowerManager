@@ -1,7 +1,7 @@
 # PowerManager
 
-PowerManager is an Android application for control the CL4-GSM power controller with SMS.
-This application was developed at the request of a friend of mine, feel free to use it.
+PowerManager is an Android application for control the CL4-GSM power controller with SMS.  
+This application was developed at the request of a friend of mine, feel free to use it.  
 
 
 ## Features
